@@ -1,0 +1,7 @@
+{
+    "require": {
+        "google/apiclient": "^2.11",
+        "endroid/qr-code": "^4.4",
+        "dompdf/dompdf": "^1.0"
+    }
+}
